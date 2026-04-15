@@ -1,2 +1,2 @@
 # Modulo-2
-Entrega modulo 2 Valentino Giampietri
+Este Repositorio esta destinado al módulo 2 de la materia 'Técnicas y herramientas modernas I', para visualizar un pdf con los diferentes comandos usandos en R, en posit.cloud
