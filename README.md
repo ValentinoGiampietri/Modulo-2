@@ -7,6 +7,6 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 [Descarga Algoritmos en PDF]( https://github.com/ValentinoGiampietri/Modulo-2/blob/main/Entrega%20ejercicios/M%C3%B3dulo%202%20-%20Grupo%20JOULIE%20FARADAY.pdf )
 
-[Descarga el archivo zip. con todo el proyecto en LaTeX]( https://github.com/ValentinoGiampietri/Modulo-2/blob/main/Entrega%20ejercicios/Joulie_Faraday_Modulo2.zip )
+[Descarga el archivo zip. con todo el proyecto]( https://github.com/ValentinoGiampietri/Modulo-2/blob/main/Entrega%20ejercicios/Joulie_Faraday_Modulo2.zip )
 
 [Hacé clic aquí para ver la presentación final publicada en RPubs]( https://rpubs.com/ValentinoGiampietri/modulo-2 )
