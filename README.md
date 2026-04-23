@@ -9,4 +9,4 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 [Descarga el archivo zip. con todo el proyecto]( https://github.com/ValentinoGiampietri/Modulo-2/blob/main/Entrega%20ejercicios/Joulie_Faraday_Modulo-2.zip )
 
-[Hacé clic aquí para ver la presentación final publicada en RPubs]( https://rpubs.com/ValentinoGiampietri/modulo-2 )
+[Hacé clic aquí para ver la presentación final publicada en RPubs](https://rpubs.com/ValentinoGiampietri/modulo-2-JF)
